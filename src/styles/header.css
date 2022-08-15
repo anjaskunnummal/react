@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: black;
+    color: white;
+    height: 4rem;
+    gap: 10px;
+    width: 100%;
+  }
+  
+  .welcome{
+    margin-right: auto;
+ 
+  }
+
